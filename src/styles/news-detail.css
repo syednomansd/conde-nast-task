@@ -1,0 +1,71 @@
+/* News-detail.css */
+
+.main-inner {
+  padding: 50px 0;
+}
+
+.main-inner h2 {
+  font-size: 14px;
+  color: #000;
+  display: block;
+  margin-top: 20px;
+  font-weight: 700;
+}
+
+.main-inner h3 {
+  font-size: 50px;
+  color: #000;
+  padding: 20px 0 0 0;
+  font-weight: 700;
+}
+
+.main-inner span {
+  font-size: 18px;
+  display: block;
+  color: #000;
+  line-height: 22px;
+  padding: 40px 0;
+}
+
+.main-inner h4 {
+  font-size: 14px;
+  color: #757776;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.main-inner h4 span {
+  font-size: 14px;
+  display: block;
+  font-weight: 400;
+  padding: 0;
+  color: #757776;
+}
+
+.main-inner img {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.main-inner .desc {
+  padding: 50px 0;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 50px;
+}
+
+.main-inner .desc p {
+  font-size: 18px;
+  line-height: 28px;
+  color: #505050;
+  margin-bottom: 25px;
+  font-family: "Georgia";
+}
+
+.main-inner .desc h5 {
+  font-size: 30px;
+  line-height: 34px;
+  color: #000;
+  margin-bottom: 25px;
+  font-weight: 700;
+}

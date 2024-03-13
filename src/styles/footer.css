@@ -1,0 +1,25 @@
+footer {
+  padding: 50px 0;
+  background: #000;
+}
+
+.foot-nav {
+  padding-bottom: 30px;
+}
+
+.foot-nav ul {
+  display: flex;
+  column-gap: 10px;
+}
+
+.foot-nav ul li a {
+  color: #fff;
+  font-size: 14px;
+}
+
+.copyright {
+  color: #c0c7ca;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 25px;
+}

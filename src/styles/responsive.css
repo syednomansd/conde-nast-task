@@ -1,0 +1,58 @@
+/* Responsive.css */
+
+@media only screen and (min-width : 240px) and (max-width : 319px) {
+  .wrapper{width:85%;}
+  .cd-header{display: block!important;}
+  main h1{font-size: 26px;}
+  .main-content ul li h2{font-size: 18px;line-height: 22px;}
+  .foot-nav ul{flex-direction: column;align-items: center;row-gap: 5px;}
+  .foot-nav ul li:after{display: none;}
+  .copyright{text-align: center;}
+  .main-inner .desc{display: block;}
+  .main-inner h3{font-size: 30px;}
+}
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+  .wrapper{width:85%;}
+  .cd-header{display: block!important;}
+  main h1{font-size: 26px;}
+  .main-content ul li h2{font-size: 18px;line-height: 22px;}
+  .foot-nav ul{flex-direction: column;align-items: center;row-gap: 5px;}
+  .foot-nav ul li:after{display: none;}
+  .copyright{text-align: center;}
+  .main-inner .desc{display: block;}
+  .main-inner h3{font-size: 30px;}
+}
+
+@media only screen and (min-width : 360px) and (max-width : 640px) {
+  .wrapper{width:85%;}
+  .cd-header{display: block!important;}
+  main h1{font-size: 26px;}
+  .main-content ul li h2{font-size: 18px;line-height: 22px;}
+  .foot-nav ul{flex-direction: column;align-items: center;row-gap: 5px;}
+  .foot-nav ul li:after{display: none;}
+  .copyright{text-align: center;}
+  .main-inner .desc{display: block;}
+  .main-inner h3{font-size: 30px;}
+}
+
+@media only screen and (min-width : 414px) and (max-width : 767px) {
+  .wrapper{width:85%;}
+  .cd-header{display: block!important;}
+  main h1{font-size: 26px;}
+  .main-content ul li h2{font-size: 18px;line-height: 22px;}
+  .foot-nav ul{flex-direction: column;align-items: center;row-gap: 5px;}
+  .foot-nav ul li:after{display: none;}
+  .copyright{text-align: center;}
+  .main-inner .desc{display: block;}
+  .main-inner h3{font-size: 30px;}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+  .wrapper{width:95%;}
+  .top-nav ul{column-gap: 10px;}
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1280px) {
+  .wrapper{width:95%;}
+}

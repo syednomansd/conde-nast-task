@@ -1,0 +1,17 @@
+/* Header.css */
+
+header {
+  padding: 10px 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.logo img {
+  width: 200px;
+}

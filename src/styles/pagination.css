@@ -1,0 +1,27 @@
+/* Pagination.css */
+
+.pagination {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.btn-outline {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  padding: 5px 10px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+  
+}
