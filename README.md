@@ -7,7 +7,7 @@ Senior Frontend Developer - Coding Challenge | Conde Nast 0.1.0 - React, React R
 
 1.  Make sure that you have Node v21 or above installed.
 2.  Clone this repo using `git clone git@github.com:syednomansd/conde-nast-task.git`
-3.  Move to the appropriate directory: `cd conde-nast`
+3.  Move to the appropriate directory: `cd conde-nast-task`
 4.  Run `npm install` in order to install dependencies.
 
 ### Local Environment with Live Reload
