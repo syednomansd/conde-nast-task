@@ -12,10 +12,10 @@ const Footer = () => {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <a href="/">About</a>
+              <a href="javascript:void(0)">About</a>
             </li>
             <li>
-              <a href="/">Contact</a>
+              <a href="javascript:void(0)">Contact</a>
             </li>
           </ul>
         </nav>

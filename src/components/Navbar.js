@@ -20,19 +20,19 @@ const Navbar = () => {
           {showSubMenu && (
             <ul>
               <li>
-                <Link to="/company">Company</Link>
+                <a href="javascript:void(0)">Company</a>
               </li>
               <li>
-                <Link to="/history">History</Link>
+                <a href="javascript:void(0)">History</a>
               </li>
               <li>
-                <Link to="/career">Career</Link>
+                <a href="javascript:void(0)">Career</a>
               </li>
             </ul>
           )}
         </li>
         <li>
-          <a href="/">Contact</a>
+          <a href="javascript:void(0)">Contact</a>
         </li>
       </ul>
     </nav>

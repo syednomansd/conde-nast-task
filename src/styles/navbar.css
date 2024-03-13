@@ -30,7 +30,7 @@
 }
 
 .top-nav ul li:last-child {
-  padding-right:0; 
+  padding-right: 0;
 }
 
 .top-nav ul li a {
@@ -39,7 +39,6 @@
 }
 
 .top-nav ul li ul {
-  opacity: 0;
   background: #000;
   width: 150px;
   position: absolute;
@@ -48,7 +47,7 @@
   padding: 10px;
   row-gap: 10px;
   top: 29px;
-  transition: 0.2s;
+  transition: opacity 0.2s;
 }
 
 .top-nav ul li ul li {
@@ -59,6 +58,6 @@
   color: #fff;
 }
 
-.top-nav ul li:hover ul {
+.top-nav ul li ul.visible {
   opacity: 1;
 }
